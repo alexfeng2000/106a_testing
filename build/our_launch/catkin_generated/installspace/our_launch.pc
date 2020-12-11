@@ -1,0 +1,8 @@
+prefix=/home/alexfeng2000/Desktop/testing/install
+
+Name: our_launch
+Description: Description of our_launch
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
