@@ -1,0 +1,8 @@
+prefix=/home/alexfeng2000/Desktop/testing/install
+
+Name: fake_joint_launch
+Description: Description of fake_joint_launch
+Version: 0.0.4
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: fake_joint_driver

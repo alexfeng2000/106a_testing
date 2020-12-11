@@ -1,0 +1,8 @@
+prefix=/home/alexfeng2000/Desktop/testing/devel
+
+Name: roomblock_description
+Description: Description of roomblock_description
+Version: 0.0.2
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

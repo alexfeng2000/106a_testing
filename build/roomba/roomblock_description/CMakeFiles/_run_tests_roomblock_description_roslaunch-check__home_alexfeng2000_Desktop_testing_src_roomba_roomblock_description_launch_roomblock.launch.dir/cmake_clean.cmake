@@ -1,0 +1,8 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/_run_tests_roomblock_description_roslaunch-check__home_alexfeng2000_Desktop_testing_src_roomba_roomblock_description_launch_roomblock.launch"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/_run_tests_roomblock_description_roslaunch-check__home_alexfeng2000_Desktop_testing_src_roomba_roomblock_description_launch_roomblock.launch.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

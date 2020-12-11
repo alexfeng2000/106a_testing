@@ -1,0 +1,2 @@
+fake_joint/fake_joint:fake_joint/fake_joint_driver:fake_joint/fake_joint_launch:raspicam_node:roomba/roomblock:roomba/roomblock_bringup:roomba/roomblock_description:roomba/roomblock_mapping:roomba/roomblock_navigation:rrt_exploration:rrt_exploration_tutorials:rtabmap_ros:simulation:stereo_tests/stereocam_test_description:turtlesim_cleaner
+-DCATKIN_DEVEL_PREFIX=/home/alexfeng2000/Desktop/testing/devel -DCMAKE_INSTALL_PREFIX=/home/alexfeng2000/Desktop/testing/install -G Unix Makefiles
