@@ -26,4 +26,6 @@ To launch move_base:
 To launch explore_lite:
 **roslaunch our_launch explore.launch**
 
-You may also have to use topic_tools in order to relay the map to explore_lite.
+You may also have to use topic_tools in order to relay the map to explore_lite:
+**rosrun topic_tools relay rtabmap/grid_map map**
+in another terminal.
